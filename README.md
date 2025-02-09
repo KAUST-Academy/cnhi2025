@@ -1,2 +1,2 @@
-# CWM: Introduction to ML and AI with Python
-Website for CWM on Introduction to Machine Learning and Artificial Intelligence for Python
+# CNHI Training Program: Introduction to ML and AI with Python
+Website for CNHI Employees on Introduction to Python
